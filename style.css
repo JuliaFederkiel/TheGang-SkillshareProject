@@ -1,2 +1,88 @@
 body{
+	font-family: Helvetica, Arial;
 }
+
+.wrapper{
+
+}
+
+.cta{
+	background-color: blue;
+	color: white;
+}
+
+.cta-alt{
+	background-color: yellow;
+}
+
+.logo {
+
+}
+
+h1{
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+h3 a{
+	color: white;
+}
+
+p{
+
+}
+
+.hero-banner{
+	background-color: blue;
+	color: white;
+}
+
+nav{
+	background-color: lightgoldenrodyellow;
+}
+
+.more-info{
+	background-color: lightcoral;
+}
+
+span {
+	background-color: lightpink;
+	color: red;
+}
+
+.sep{
+
+}
+
+.story {
+	background-color: lightgray;
+}
+
+footer{
+	background-color: lightyellow;
+	color: lightgray;
+}
+
+footer a{
+	color: lightgray;
+}
+
+/* Popup */
+
+.blanket{
+	background-color: black;
+}
+
+.content {
+
+}
+
